@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "Worlds Within Worlds Vol-III",
-  "type": "text"
+  "type": "text",
+  "book_id": 615
 }
